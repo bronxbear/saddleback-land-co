@@ -2,7 +2,7 @@ const services = [
   {
     title: "Land Acquisition",
     description:
-      "We identify and pursue rural parcels suited for development, agriculture, and long-term investment across the American South and Midwest.",
+      "We purchase rural parcels for development and long-term investment across the American South and Midwest. Our own capital, our own deals.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -30,9 +30,9 @@ const services = [
     ),
   },
   {
-    title: "Owner Outreach",
+    title: "Direct Offers",
     description:
-      "We reach out directly to landowners with straightforward offers and transparent communication—no games, no pressure, no surprises.",
+      "We contact landowners directly with fair cash offers. No agents, no games, no pressure. One conversation, one number, one handshake.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -74,9 +74,9 @@ const services = [
     ),
   },
   {
-    title: "Site Evaluation",
+    title: "Property Evaluation",
     description:
-      "Our team evaluates land for access, utility potential, topography, and market positioning to ensure informed decisions for all parties.",
+      "Our team evaluates every parcel for access, utilities, topography, and development potential before making an offer.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -134,9 +134,9 @@ const services = [
     ),
   },
   {
-    title: "Deal Structuring",
+    title: "Clean Closings",
     description:
-      "We structure clean, flexible transactions that work for both buyers and sellers—from cash offers to creative arrangements.",
+      "We handle the paperwork, title work, and closing costs. Cash deals that close on your timeline, not a bank's.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -223,8 +223,8 @@ export default function Services() {
             What We Do
           </h2>
           <p className="mt-4 text-white/55 text-lg max-w-xl mx-auto">
-            From first contact to final closing, we manage every step of the
-            land acquisition process.
+            A private land company that buys, holds, and develops. From
+            first contact to closing, we handle everything.
           </p>
         </div>
 

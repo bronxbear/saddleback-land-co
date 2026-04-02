@@ -1,7 +1,7 @@
 const stats = [
   { label: "10+ States", desc: "Active Coverage" },
-  { label: "Direct Outreach", desc: "No Middlemen" },
-  { label: "Fair Deals", desc: "Always" },
+  { label: "Direct Buyer", desc: "No Middlemen" },
+  { label: "Cash Offers", desc: "Quick Close" },
 ];
 
 export default function About() {
@@ -28,22 +28,21 @@ export default function About() {
 
             <div className="space-y-4 text-[#1A1A1A]/75 leading-relaxed text-lg">
               <p>
-                Saddleback Land Company is a land pursuit and acquisition firm
-                operating across the American South and Midwest. We work
-                directly with landowners—no middlemen, no complications—to
-                structure fair, straightforward deals on rural and semi-rural
-                properties.
+                Saddleback Land Company acquires rural and semi-rural land
+                across the American South and Midwest. We buy directly from
+                landowners, with our own capital, and close on our own
+                timeline.
               </p>
               <p>
-                Our mission is simple: connect willing sellers with serious
-                buyers while treating every acre—and every landowner—with
-                genuine respect. We believe that land transactions should be
-                transparent, efficient, and built on trust.
+                We are not brokers. We are not wholesalers. We are a private
+                land acquisition firm that purchases properties for long-term
+                development and investment. When we make an offer, the money
+                is ours and the deal is real.
               </p>
               <p>
-                Whether you own timberland, pasture, farmland, or undeveloped
-                acreage, we approach every conversation with honesty and a
-                long-term perspective.
+                Timberland, pasture, farmland, undeveloped acreage. If it has
+                potential, we want to see it. Every property gets an honest
+                evaluation from people who understand the land.
               </p>
             </div>
 

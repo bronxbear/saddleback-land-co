@@ -26,12 +26,12 @@ export default function Hero() {
       <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-transparent via-[#C9A96E]/60 to-transparent" />
 
       {/* Content */}
-      <div className="relative z-10 max-w-5xl mx-auto px-6 lg:px-8 text-center">
+      <div className="relative z-10 max-w-5xl mx-auto px-6 lg:px-8 text-center pt-28 sm:pt-24">
         {/* Eyebrow */}
         <div className="flex items-center justify-center gap-4 mb-8">
           <div className="h-px w-12 bg-[#C9A96E]/60" />
           <span className="text-[#C9A96E] text-xs font-semibold tracking-[0.4em] uppercase">
-            American South &amp; Midwest
+            Est. Land Acquisitions
           </span>
           <div className="h-px w-12 bg-[#C9A96E]/60" />
         </div>
@@ -41,17 +41,16 @@ export default function Hero() {
           className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black text-white leading-[1.05] mb-6"
           style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
         >
-          Your Land.
+          We Buy
           <br />
-          <span className="text-[#C9A96E]">Your Legacy.</span>
-          <br />
-          Your Terms.
+          <span className="text-[#C9A96E]">American Land.</span>
         </h1>
 
         {/* Subheadline */}
         <p className="mt-8 text-lg sm:text-xl text-white/75 max-w-2xl mx-auto leading-relaxed font-light">
-          Saddleback Land Company connects landowners with serious buyers across
-          the American South and Midwest. We pursue land with purpose.
+          Saddleback Land Company acquires rural and semi-rural properties
+          across the South and Midwest. Direct purchases, fair offers, no
+          brokers.
         </p>
 
         {/* CTAs */}
@@ -60,13 +59,13 @@ export default function Hero() {
             href="#contact"
             className="w-full sm:w-auto px-8 py-4 bg-[#C9A96E] text-[#1C1410] text-base font-bold tracking-wide rounded-sm hover:bg-[#E8D5B0] transition-all duration-200 hover:shadow-lg hover:shadow-[#C9A96E]/20 hover:-translate-y-0.5"
           >
-            I Want to Sell My Land
+            Submit Your Property
           </a>
           <a
             href="#about"
             className="w-full sm:w-auto px-8 py-4 border border-white/40 text-white text-base font-medium tracking-wide rounded-sm hover:bg-white/10 hover:border-white/70 transition-all duration-200 hover:-translate-y-0.5"
           >
-            Learn More
+            About Saddleback
           </a>
         </div>
 
@@ -84,3 +83,4 @@ export default function Hero() {
     </section>
   );
 }
+

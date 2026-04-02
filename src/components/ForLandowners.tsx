@@ -3,19 +3,19 @@ const steps = [
     number: "01",
     title: "Reach Out",
     description:
-      "Contact us with basic details about your property. No pressure, no commitment—just a conversation.",
+      "Tell us about your property. Location, acreage, and anything else you think matters. No pressure, no commitment.",
   },
   {
     number: "02",
     title: "We Evaluate",
     description:
-      "Our team reviews your land and prepares a fair assessment. We do the work so you don't have to.",
+      "Our team reviews the property and prepares a fair cash offer. We do the research, you wait for a number.",
   },
   {
     number: "03",
     title: "You Decide",
     description:
-      "We present our offer and you choose. Accept, decline, or take your time. The decision is always yours.",
+      "Accept, decline, or take your time. We buy on your schedule, not ours. No expiring offers, no tricks.",
   },
 ];
 
@@ -41,9 +41,10 @@ export default function ForLandowners() {
           </h2>
 
           <p className="text-[#1C1410]/70 text-lg leading-relaxed">
-            We understand that land is more than property—it&apos;s history, hard
-            work, and family. When you&apos;re ready to explore your options,
-            Saddleback Land Company makes the process simple and respectful.
+            We understand that land is more than property. It&apos;s history, hard
+            work, and family. When you&apos;re ready to sell, we make the process
+            simple. One buyer, one offer, one closing. We purchase directly
+            with our own funds.
           </p>
         </div>
 
