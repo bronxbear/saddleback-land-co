@@ -2,7 +2,7 @@ const services = [
   {
     title: "Land Acquisition",
     description:
-      "We purchase rural parcels for development and long-term investment across the American South and Midwest. Our own capital, our own deals.",
+      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Ten states and growing.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -32,7 +32,7 @@ const services = [
   {
     title: "Direct Offers",
     description:
-      "We contact landowners directly with fair cash offers. No agents, no games, no pressure. One conversation, one number, one handshake.",
+      "We reach out to landowners directly with funded offers. No agents in the middle, no games. A conversation between you and the people writing the check.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -76,7 +76,7 @@ const services = [
   {
     title: "Property Evaluation",
     description:
-      "Our team evaluates every parcel for access, utilities, topography, and development potential before making an offer.",
+      "Access, utilities, topography, flood risk, timber value, soil quality. We do our homework before we make a call, not after.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -136,7 +136,7 @@ const services = [
   {
     title: "Clean Closings",
     description:
-      "We handle the paperwork, title work, and closing costs. Cash deals that close on your timeline, not a bank's.",
+      "Title work, survey, closing costs. We handle the details and close on your timeline. No bank approvals, no contingencies dragging out for months.",
     icon: (
       <svg
         viewBox="0 0 48 48"

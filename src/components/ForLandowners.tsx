@@ -41,10 +41,11 @@ export default function ForLandowners() {
           </h2>
 
           <p className="text-[#1C1410]/70 text-lg leading-relaxed">
-            We understand that land is more than property. It&apos;s history, hard
-            work, and family. When you&apos;re ready to sell, we make the process
-            simple. One buyer, one offer, one closing. We purchase directly
-            with our own funds.
+            We know that land is not just an asset. It is generations of work,
+            history, and family. If you are considering selling, we would like
+            the chance to make you a fair offer and earn your trust. No
+            listing agents, no open houses, no strangers walking your property.
+            Just a direct conversation with the buyer.
           </p>
         </div>
 
@@ -92,9 +93,9 @@ export default function ForLandowners() {
               No Pressure. No Obligation.
             </h3>
             <p className="text-white/60 text-base leading-relaxed max-w-xl">
-              We believe every landowner deserves to be heard—not sold to.
-              Whether you decide to sell or not, we&apos;ll treat your time and
-              land with the respect they deserve.
+              We have been on the other side of the table. We know what it
+              feels like when someone does not respect your time or your land.
+              That is not how we operate.
             </p>
             {/* Checklist */}
             <div className="mt-6 flex flex-col sm:flex-row gap-4 lg:gap-6">

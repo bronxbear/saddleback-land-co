@@ -28,21 +28,22 @@ export default function About() {
 
             <div className="space-y-4 text-[#1A1A1A]/75 leading-relaxed text-lg">
               <p>
-                Saddleback Land Company acquires rural and semi-rural land
-                across the American South and Midwest. We buy directly from
-                landowners, with our own capital, and close on our own
-                timeline.
+                Saddleback Land Company is a private acquisition firm
+                purchasing rural and semi-rural property across the American
+                South and Midwest. We buy with our own capital and hold for
+                long-term development.
               </p>
               <p>
-                We are not brokers. We are not wholesalers. We are a private
-                land acquisition firm that purchases properties for long-term
-                development and investment. When we make an offer, the money
-                is ours and the deal is real.
+                We are not brokers and we are not wholesalers. When we call,
+                it is because we want to buy your land ourselves. Our offers
+                are funded, our closings are clean, and we do what we say
+                we will do.
               </p>
               <p>
-                Timberland, pasture, farmland, undeveloped acreage. If it has
-                potential, we want to see it. Every property gets an honest
-                evaluation from people who understand the land.
+                Whether it is a working cattle ranch, family timberland, row
+                crop ground, or undeveloped acreage, we evaluate every
+                property with the same care. We know what the land is worth
+                because we have walked land like it.
               </p>
             </div>
 

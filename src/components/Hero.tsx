@@ -31,7 +31,7 @@ export default function Hero() {
         <div className="flex items-center justify-center gap-4 mb-8">
           <div className="h-px w-12 bg-[#C9A96E]/60" />
           <span className="text-[#C9A96E] text-xs font-semibold tracking-[0.4em] uppercase">
-            Est. Land Acquisitions
+            Private Land Acquisitions
           </span>
           <div className="h-px w-12 bg-[#C9A96E]/60" />
         </div>
@@ -41,16 +41,17 @@ export default function Hero() {
           className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black text-white leading-[1.05] mb-6"
           style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
         >
-          We Buy
+          Good Land
           <br />
-          <span className="text-[#C9A96E]">American Land.</span>
+          <span className="text-[#C9A96E]">Deserves Good Stewards.</span>
         </h1>
 
         {/* Subheadline */}
         <p className="mt-8 text-lg sm:text-xl text-white/75 max-w-2xl mx-auto leading-relaxed font-light">
-          Saddleback Land Company acquires rural and semi-rural properties
-          across the South and Midwest. Direct purchases, fair offers, no
-          brokers.
+          Saddleback Land Company is a private acquisition firm purchasing
+          rural properties across the American South and Midwest. We buy
+          directly, close with our own capital, and treat every landowner the
+          way we&apos;d want to be treated.
         </p>
 
         {/* CTAs */}
@@ -59,7 +60,7 @@ export default function Hero() {
             href="#contact"
             className="w-full sm:w-auto px-8 py-4 bg-[#C9A96E] text-[#1C1410] text-base font-bold tracking-wide rounded-sm hover:bg-[#E8D5B0] transition-all duration-200 hover:shadow-lg hover:shadow-[#C9A96E]/20 hover:-translate-y-0.5"
           >
-            Submit Your Property
+            Get in Touch
           </a>
           <a
             href="#about"
