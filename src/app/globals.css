@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-earth-dark: #1C1410;
+  --color-earth-brown: #2C1F14;
+  --color-earth-tan: #C9A96E;
+  --color-earth-sand: #E8D5B0;
+  --color-earth-cream: #F5F0E8;
+  --color-earth-green: #2D5016;
+  --color-earth-green-light: #3D6B20;
+}
+
+:root {
+  --background: #F5F0E8;
+  --foreground: #1A1A1A;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
