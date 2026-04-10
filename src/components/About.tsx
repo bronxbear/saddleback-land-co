@@ -1,7 +1,7 @@
 const stats = [
-  { label: "10+ States", desc: "Active Coverage" },
-  { label: "Direct Buyer", desc: "No Middlemen" },
-  { label: "Cash Offers", desc: "Quick Close" },
+  { label: "8 States", desc: "Active Coverage" },
+  { label: "Direct Buyer", desc: "Own Capital" },
+  { label: "Cash Offers", desc: "Funded & Ready" },
 ];
 
 export default function About() {
@@ -34,10 +34,10 @@ export default function About() {
                 long-term development.
               </p>
               <p>
-                We are not brokers and we are not wholesalers. When we call,
-                it is because we want to buy your land ourselves. Our offers
-                are funded, our closings are clean, and we do what we say
-                we will do.
+                When we reach out about your property, it is because we have
+                done our research and we are genuinely interested. Our offers
+                are funded, our process is straightforward, and we do what
+                we say we will do.
               </p>
               <p>
                 Whether it is a working cattle ranch, family timberland, row

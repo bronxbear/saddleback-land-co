@@ -2,7 +2,7 @@ const services = [
   {
     title: "Land Acquisition",
     description:
-      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Ten states and growing.",
+      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Eight states and growing.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -32,7 +32,7 @@ const services = [
   {
     title: "Direct Offers",
     description:
-      "We reach out to landowners directly with funded offers. No agents in the middle, no games. A conversation between you and the people writing the check.",
+      "A funded offer from the people who intend to own the land. We handle the process from first call to closing.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -136,7 +136,7 @@ const services = [
   {
     title: "Clean Closings",
     description:
-      "Title work, survey, closing costs. We handle the details and close on your timeline. No bank approvals, no contingencies dragging out for months.",
+      "Title work, survey, closing costs handled. We close on your timeline with certainty.",
     icon: (
       <svg
         viewBox="0 0 48 48"

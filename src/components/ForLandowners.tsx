@@ -43,9 +43,8 @@ export default function ForLandowners() {
           <p className="text-[#1C1410]/70 text-lg leading-relaxed">
             We know that land is not just an asset. It is generations of work,
             history, and family. If you are considering selling, we would like
-            the chance to make you a fair offer and earn your trust. No
-            listing agents, no open houses, no strangers walking your property.
-            Just a direct conversation with the buyer.
+            the chance to make you a fair offer and earn your trust through a
+            straightforward process.
           </p>
         </div>
 
