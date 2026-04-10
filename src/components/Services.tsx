@@ -2,7 +2,7 @@ const services = [
   {
     title: "Land Acquisition",
     description:
-      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Eight states and growing.",
+      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Nine states and growing.",
     icon: (
       <svg
         viewBox="0 0 48 48"

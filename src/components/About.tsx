@@ -1,5 +1,5 @@
 const stats = [
-  { label: "8 States", desc: "Active Coverage" },
+  { label: "9 States", desc: "Active Coverage" },
   { label: "Direct Buyer", desc: "Own Capital" },
   { label: "Cash Offers", desc: "Funded & Ready" },
 ];
