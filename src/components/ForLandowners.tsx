@@ -15,7 +15,7 @@ const steps = [
     number: "03",
     title: "You Decide",
     description:
-      "Accept, decline, or take your time. We buy on your schedule, not ours. No expiring offers, no tricks.",
+      "Accept, decline, or counter. There is no pressure and no rush. We work on your timeline.",
   },
 ];
 
