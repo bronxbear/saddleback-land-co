@@ -27,6 +27,21 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     siteName: "Saddleback Land Company",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Saddleback Land Company - Good Land Deserves Good Stewards",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Saddleback Land Company | Rural Land Acquisition",
+    description:
+      "Connecting landowners with serious buyers across the American South and Midwest. Fair deals, direct outreach, no complications.",
+    images: ["/og-image.png"],
   },
   icons: {
     icon:
