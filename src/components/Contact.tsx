@@ -68,13 +68,13 @@ export default function Contact() {
               className="text-4xl sm:text-5xl font-black text-white leading-tight mb-6"
               style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
             >
-              Let&apos;s Start a Conversation
+              Tell Us About Your Land
             </h2>
 
             <p className="text-white/60 text-lg leading-relaxed mb-12">
-              Whether you own 10 acres or 10,000, we want to hear from you.
-              Reach out today and let&apos;s talk about what your land means to
-              you—and what it could mean for your future.
+              Ten acres or ten thousand, we&apos;d like to hear from you. Send us a
+              note with the county and the acreage and we&apos;ll come back to you
+              in a day or two.
             </p>
 
             {/* Contact info */}

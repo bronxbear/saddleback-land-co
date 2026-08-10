@@ -3,19 +3,19 @@ const steps = [
     number: "01",
     title: "Reach Out",
     description:
-      "Tell us about your property. Location, acreage, and anything else you think matters. No pressure, no commitment.",
+      "Tell us where the property is, roughly how many acres, and anything else we should know. That's all we need to start.",
   },
   {
     number: "02",
     title: "We Evaluate",
     description:
-      "Our team reviews the property and prepares a fair cash offer. We do the research, you wait for a number.",
+      "We pull the parcel, run the diligence, and come back with a cash number and the reasoning behind it.",
   },
   {
     number: "03",
     title: "You Decide",
     description:
-      "Accept, decline, or counter. There is no pressure and no rush. We work on your timeline.",
+      "Take it, leave it, or counter. Plenty of people talk to us and decide to hold onto the land, and that's a perfectly good outcome.",
   },
 ];
 
@@ -41,10 +41,10 @@ export default function ForLandowners() {
           </h2>
 
           <p className="text-[#1C1410]/70 text-lg leading-relaxed">
-            We know that land is not just an asset. It is generations of work,
-            history, and family. If you are considering selling, we would like
-            the chance to make you a fair offer and earn your trust through a
-            straightforward process.
+            For most families the land isn&apos;t a line on a balance sheet. It&apos;s
+            what your father worked and what your kids will inherit. If you&apos;re
+            thinking about selling, we&apos;d like a chance to make you a fair offer
+            and to show you how we got to the number.
           </p>
         </div>
 
@@ -89,16 +89,17 @@ export default function ForLandowners() {
               className="text-2xl font-black text-white mb-3"
               style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
             >
-              No Pressure. No Obligation.
+              If It Isn&apos;t a Fit, We&apos;ll Say So
             </h3>
             <p className="text-white/60 text-base leading-relaxed max-w-xl">
-              We have been on the other side of the table. We know what it
-              feels like when someone does not respect your time or your land.
-              That is not how we operate.
+              We&apos;ve been on the other side of a land deal. We know what it&apos;s
+              like to get chased by someone who never had the money in the first
+              place. We&apos;d rather tell you no in the first week than string you
+              along for three months.
             </p>
             {/* Checklist */}
             <div className="mt-6 flex flex-col sm:flex-row gap-4 lg:gap-6">
-              {["Free Evaluation", "No Hidden Fees", "No Pressure Tactics"].map(
+              {["Free Evaluation", "No Fees to You", "We Pay Closing Costs"].map(
                 (item) => (
                   <div key={item} className="flex items-center gap-2">
                     <svg

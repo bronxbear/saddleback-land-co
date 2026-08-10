@@ -1,5 +1,5 @@
 const stats = [
-  { label: "9 States", desc: "Active Coverage" },
+  { label: "10 States", desc: "Active Coverage" },
   { label: "Direct Buyer", desc: "Own Capital" },
   { label: "Cash Offers", desc: "Funded & Ready" },
 ];
@@ -28,22 +28,21 @@ export default function About() {
 
             <div className="space-y-4 text-[#1A1A1A]/75 leading-relaxed text-lg">
               <p>
-                Saddleback Land Company is a private acquisition firm
-                purchasing rural and semi-rural property across the American
-                South and Midwest. We buy with our own capital and hold for
-                long-term development.
+                Saddleback Land Company buys rural and semi-rural property
+                across the South and Midwest and holds it for long-term
+                development. The capital is ours, so nobody has to call a
+                lender before we can make you a number.
               </p>
               <p>
-                When we reach out about your property, it is because we have
-                done our research and we are genuinely interested. Our offers
-                are funded, our process is straightforward, and we do what
-                we say we will do.
+                If we&apos;ve reached out about your place, we&apos;ve already looked at
+                it. We&apos;ve pulled the parcel, we know the acreage, and we have a
+                specific reason to be interested. Ask us and we&apos;ll tell you
+                what it is.
               </p>
               <p>
-                Whether it is a working cattle ranch, family timberland, row
-                crop ground, or undeveloped acreage, we evaluate every
-                property with the same care. We know what the land is worth
-                because we have walked land like it.
+                Cattle ground, family timberland, row crop, raw acreage. We&apos;ll
+                look at any of it, and we&apos;ll tell you honestly when it isn&apos;t a
+                fit for us.
               </p>
             </div>
 

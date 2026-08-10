@@ -2,7 +2,7 @@ const services = [
   {
     title: "Land Acquisition",
     description:
-      "We identify and acquire rural properties suited for development, agriculture, and long-term hold. Nine states and growing.",
+      "We buy rural property for development, agriculture, and long-term hold. Ten states and growing.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -32,7 +32,7 @@ const services = [
   {
     title: "Direct Offers",
     description:
-      "A funded offer from the people who intend to own the land. We handle the process from first call to closing.",
+      "The offer comes from the people who will actually own the land. No assigning your contract to a third party, and no renegotiating the price after you've signed.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -76,7 +76,7 @@ const services = [
   {
     title: "Property Evaluation",
     description:
-      "Access, utilities, topography, flood risk, timber value, soil quality. We do our homework before we make a call, not after.",
+      "Access, utilities, topography, flood risk, timber value, soil quality. That work happens before we call you, which is why our first number is usually our last one.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -136,7 +136,7 @@ const services = [
   {
     title: "Clean Closings",
     description:
-      "Title work, survey, closing costs handled. We close on your timeline with certainty.",
+      "Title, survey, and closing costs are on us. You pick the closing date.",
     icon: (
       <svg
         viewBox="0 0 48 48"
@@ -223,8 +223,8 @@ export default function Services() {
             What We Do
           </h2>
           <p className="mt-4 text-white/55 text-lg max-w-xl mx-auto">
-            A private land company that buys, holds, and develops. From
-            first contact to closing, we handle everything.
+            We buy the land, we hold it, and we develop it. Same company from
+            the first phone call through closing.
           </p>
         </div>
 

@@ -48,10 +48,9 @@ export default function Hero() {
 
         {/* Subheadline */}
         <p className="mt-8 text-lg sm:text-xl text-white/75 max-w-2xl mx-auto leading-relaxed font-light">
-          Saddleback Land Company is a private acquisition firm purchasing
-          rural properties across the American South and Midwest. We buy
-          directly, close with our own capital, and treat every landowner the
-          way we&apos;d want to be treated.
+          Saddleback Land Company buys rural property across the South and
+          Midwest. We use our own money, we don&apos;t assign contracts to someone
+          else, and the offer we make is the offer we close on.
         </p>
 
         {/* CTAs */}
@@ -84,4 +83,3 @@ export default function Hero() {
     </section>
   );
 }
-

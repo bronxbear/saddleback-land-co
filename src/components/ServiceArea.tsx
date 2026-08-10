@@ -1,10 +1,11 @@
 import usaMap from "@svg-maps/usa";
 
-const HIGHLIGHTED_IDS = new Set(["tx", "mo", "ky", "in", "al", "il", "sc", "tn", "ca"]);
+const HIGHLIGHTED_IDS = new Set(["tx", "ia", "mo", "ky", "in", "al", "il", "sc", "tn", "ca"]);
 
 const highlightedStateNames = [
   "California",
   "Texas",
+  "Iowa",
   "Missouri",
   "Kentucky",
   "Indiana",
@@ -38,7 +39,7 @@ export default function ServiceArea() {
             Our Service Area
           </h2>
           <p className="mt-4 text-[#1C1410]/55 text-lg max-w-xl mx-auto">
-            We are active buyers across nine states in the South, Midwest, and West.
+            We&apos;re buying in ten states across the South, Midwest, and West.
           </p>
         </div>
 

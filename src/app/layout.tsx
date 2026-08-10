@@ -10,7 +10,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Saddleback Land Company | Rural Land Acquisition",
   description:
-    "Saddleback Land Company connects landowners with serious buyers across the American South and Midwest. We pursue land with purpose—fair deals, direct outreach, no complications.",
+    "Saddleback Land Company buys rural land directly across the South and Midwest. Our own capital, our own closings, and a straight answer either way.",
   keywords: [
     "land acquisition",
     "rural land",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Saddleback Land Company | Rural Land Acquisition",
     description:
-      "Connecting landowners with serious buyers across the American South and Midwest. Fair deals, direct outreach, no complications.",
+      "Saddleback Land Company buys rural land directly across the South and Midwest. Our own capital, our own closings, and a straight answer either way.",
     type: "website",
     locale: "en_US",
     siteName: "Saddleback Land Company",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Saddleback Land Company | Rural Land Acquisition",
     description:
-      "Connecting landowners with serious buyers across the American South and Midwest. Fair deals, direct outreach, no complications.",
+      "Saddleback Land Company buys rural land directly across the South and Midwest. Our own capital, our own closings, and a straight answer either way.",
     images: ["/og-image.png"],
   },
   icons: {
